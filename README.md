@@ -2,6 +2,7 @@
 这是我学习berkeley计算机课程的记录，感觉自己的基础还不是很牢固，因此想利用空闲时间学习下
 
 cs-9
+下面的描述不是我的，是网上找的，先学习cs9c，再学习这些。
 
 [CS61A](http://www-inst.eecs.berkeley.edu/~cs61a/archives.html): PL theory 的入门课, 地位等同于国内的C/C++编程基础. 主要内容有Python, Python在interpreter一层的简单原理, Higher-Order function (函数式编程入门), OOP入门, 数据结构入门 (Python里的dict, list...), delcarative programming入门, parallell programming 入门. 说了这么多, 概括地说, 61A就是什么都讲, 但是什么都只讲一点, 讲到够用的程度, 但是不深究原理. 
 值得一提地是, 61A的stuff团队非常厉害. 由于61A / B一般是 1.4k+ 以上人的大课, 不可能使用传统的课堂形式解决问题. 所以61A的stuff为这门课做了一些研究, 效果就是, 不用到课堂上课, 让学生快速掌握全部内容. (其实就是MOOC的idea). 他们开发了一套autograding的程序, 还发了paper.
